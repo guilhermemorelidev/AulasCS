@@ -1,0 +1,14 @@
+C:\Users\Aluno\Downloads\SolutionOlaMundo\aula1\bin\Debug\net10.0\aula1.exe
+C:\Users\Aluno\Downloads\SolutionOlaMundo\aula1\bin\Debug\net10.0\aula1.deps.json
+C:\Users\Aluno\Downloads\SolutionOlaMundo\aula1\bin\Debug\net10.0\aula1.runtimeconfig.json
+C:\Users\Aluno\Downloads\SolutionOlaMundo\aula1\bin\Debug\net10.0\aula1.dll
+C:\Users\Aluno\Downloads\SolutionOlaMundo\aula1\bin\Debug\net10.0\aula1.pdb
+C:\Users\Aluno\Downloads\SolutionOlaMundo\aula1\obj\Debug\net10.0\aula1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Downloads\SolutionOlaMundo\aula1\obj\Debug\net10.0\aula1.AssemblyInfoInputs.cache
+C:\Users\Aluno\Downloads\SolutionOlaMundo\aula1\obj\Debug\net10.0\aula1.AssemblyInfo.cs
+C:\Users\Aluno\Downloads\SolutionOlaMundo\aula1\obj\Debug\net10.0\aula1.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Downloads\SolutionOlaMundo\aula1\obj\Debug\net10.0\aula1.dll
+C:\Users\Aluno\Downloads\SolutionOlaMundo\aula1\obj\Debug\net10.0\refint\aula1.dll
+C:\Users\Aluno\Downloads\SolutionOlaMundo\aula1\obj\Debug\net10.0\aula1.pdb
+C:\Users\Aluno\Downloads\SolutionOlaMundo\aula1\obj\Debug\net10.0\aula1.genruntimeconfig.cache
+C:\Users\Aluno\Downloads\SolutionOlaMundo\aula1\obj\Debug\net10.0\ref\aula1.dll

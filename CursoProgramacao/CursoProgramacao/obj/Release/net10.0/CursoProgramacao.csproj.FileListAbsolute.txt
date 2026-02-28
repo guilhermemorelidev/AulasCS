@@ -1,0 +1,14 @@
+C:\Users\Aluno\Downloads\CursoProgramacao\CursoProgramacao\bin\Release\net10.0\CursoProgramacao.exe
+C:\Users\Aluno\Downloads\CursoProgramacao\CursoProgramacao\bin\Release\net10.0\CursoProgramacao.deps.json
+C:\Users\Aluno\Downloads\CursoProgramacao\CursoProgramacao\bin\Release\net10.0\CursoProgramacao.runtimeconfig.json
+C:\Users\Aluno\Downloads\CursoProgramacao\CursoProgramacao\bin\Release\net10.0\CursoProgramacao.dll
+C:\Users\Aluno\Downloads\CursoProgramacao\CursoProgramacao\bin\Release\net10.0\CursoProgramacao.pdb
+C:\Users\Aluno\Downloads\CursoProgramacao\CursoProgramacao\obj\Release\net10.0\CursoProgramacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Downloads\CursoProgramacao\CursoProgramacao\obj\Release\net10.0\CursoProgramacao.AssemblyInfoInputs.cache
+C:\Users\Aluno\Downloads\CursoProgramacao\CursoProgramacao\obj\Release\net10.0\CursoProgramacao.AssemblyInfo.cs
+C:\Users\Aluno\Downloads\CursoProgramacao\CursoProgramacao\obj\Release\net10.0\CursoProgramacao.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Downloads\CursoProgramacao\CursoProgramacao\obj\Release\net10.0\CursoProgramacao.dll
+C:\Users\Aluno\Downloads\CursoProgramacao\CursoProgramacao\obj\Release\net10.0\refint\CursoProgramacao.dll
+C:\Users\Aluno\Downloads\CursoProgramacao\CursoProgramacao\obj\Release\net10.0\CursoProgramacao.pdb
+C:\Users\Aluno\Downloads\CursoProgramacao\CursoProgramacao\obj\Release\net10.0\CursoProgramacao.genruntimeconfig.cache
+C:\Users\Aluno\Downloads\CursoProgramacao\CursoProgramacao\obj\Release\net10.0\ref\CursoProgramacao.dll
