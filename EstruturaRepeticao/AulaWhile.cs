@@ -1,4 +1,4 @@
-﻿namespace EstruturaRepeticao
+namespace EstruturaRepeticao
 {
     public class AulaWhile
     {
@@ -35,6 +35,11 @@
                 operacao = Console.ReadLine();
 
                 Console.Clear();
+
+                if (operacao == "s")
+                {
+                    break;
+                }
 
                 Console.Write("Informe o primeiro valor: ");
                 v1 = Convert.ToInt32(Console.ReadLine());
