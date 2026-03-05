@@ -10,7 +10,8 @@ partial class Program
         objAulaFor.Desafio(); */
 
         AulaWhile objAulaWhile = new AulaWhile();
-        objAulaWhile.Calculos(operacao); 
+        objAulaWhile.Calculos(); 
 
         }
+
     }
