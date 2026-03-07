@@ -1,0 +1,14 @@
+C:\Users\Aluno\Downloads\AulasCS-main\AulasCS-main\3.Revisao\Revisao\Revisao\obj\Debug\net10.0\Revisao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Downloads\AulasCS-main\AulasCS-main\3.Revisao\Revisao\Revisao\obj\Debug\net10.0\Revisao.AssemblyInfoInputs.cache
+C:\Users\Aluno\Downloads\AulasCS-main\AulasCS-main\3.Revisao\Revisao\Revisao\obj\Debug\net10.0\Revisao.AssemblyInfo.cs
+C:\Users\Aluno\Downloads\AulasCS-main\AulasCS-main\3.Revisao\Revisao\Revisao\obj\Debug\net10.0\Revisao.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Downloads\AulasCS-main\AulasCS-main\3.Revisao\Revisao\Revisao\bin\Debug\net10.0\Revisao.exe
+C:\Users\Aluno\Downloads\AulasCS-main\AulasCS-main\3.Revisao\Revisao\Revisao\bin\Debug\net10.0\Revisao.deps.json
+C:\Users\Aluno\Downloads\AulasCS-main\AulasCS-main\3.Revisao\Revisao\Revisao\bin\Debug\net10.0\Revisao.runtimeconfig.json
+C:\Users\Aluno\Downloads\AulasCS-main\AulasCS-main\3.Revisao\Revisao\Revisao\bin\Debug\net10.0\Revisao.dll
+C:\Users\Aluno\Downloads\AulasCS-main\AulasCS-main\3.Revisao\Revisao\Revisao\bin\Debug\net10.0\Revisao.pdb
+C:\Users\Aluno\Downloads\AulasCS-main\AulasCS-main\3.Revisao\Revisao\Revisao\obj\Debug\net10.0\Revisao.dll
+C:\Users\Aluno\Downloads\AulasCS-main\AulasCS-main\3.Revisao\Revisao\Revisao\obj\Debug\net10.0\refint\Revisao.dll
+C:\Users\Aluno\Downloads\AulasCS-main\AulasCS-main\3.Revisao\Revisao\Revisao\obj\Debug\net10.0\Revisao.pdb
+C:\Users\Aluno\Downloads\AulasCS-main\AulasCS-main\3.Revisao\Revisao\Revisao\obj\Debug\net10.0\Revisao.genruntimeconfig.cache
+C:\Users\Aluno\Downloads\AulasCS-main\AulasCS-main\3.Revisao\Revisao\Revisao\obj\Debug\net10.0\ref\Revisao.dll

@@ -1,0 +1,14 @@
+C:\Users\Aluno\Downloads\AulasCS-main\AulasCS-main\3.Revisao\DesafioIMC\DesafioIMC\bin\Debug\net10.0\DesafioIMC.exe
+C:\Users\Aluno\Downloads\AulasCS-main\AulasCS-main\3.Revisao\DesafioIMC\DesafioIMC\bin\Debug\net10.0\DesafioIMC.deps.json
+C:\Users\Aluno\Downloads\AulasCS-main\AulasCS-main\3.Revisao\DesafioIMC\DesafioIMC\bin\Debug\net10.0\DesafioIMC.runtimeconfig.json
+C:\Users\Aluno\Downloads\AulasCS-main\AulasCS-main\3.Revisao\DesafioIMC\DesafioIMC\bin\Debug\net10.0\DesafioIMC.dll
+C:\Users\Aluno\Downloads\AulasCS-main\AulasCS-main\3.Revisao\DesafioIMC\DesafioIMC\bin\Debug\net10.0\DesafioIMC.pdb
+C:\Users\Aluno\Downloads\AulasCS-main\AulasCS-main\3.Revisao\DesafioIMC\DesafioIMC\obj\Debug\net10.0\DesafioIMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Downloads\AulasCS-main\AulasCS-main\3.Revisao\DesafioIMC\DesafioIMC\obj\Debug\net10.0\DesafioIMC.AssemblyInfoInputs.cache
+C:\Users\Aluno\Downloads\AulasCS-main\AulasCS-main\3.Revisao\DesafioIMC\DesafioIMC\obj\Debug\net10.0\DesafioIMC.AssemblyInfo.cs
+C:\Users\Aluno\Downloads\AulasCS-main\AulasCS-main\3.Revisao\DesafioIMC\DesafioIMC\obj\Debug\net10.0\DesafioIMC.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Downloads\AulasCS-main\AulasCS-main\3.Revisao\DesafioIMC\DesafioIMC\obj\Debug\net10.0\DesafioIMC.dll
+C:\Users\Aluno\Downloads\AulasCS-main\AulasCS-main\3.Revisao\DesafioIMC\DesafioIMC\obj\Debug\net10.0\refint\DesafioIMC.dll
+C:\Users\Aluno\Downloads\AulasCS-main\AulasCS-main\3.Revisao\DesafioIMC\DesafioIMC\obj\Debug\net10.0\DesafioIMC.pdb
+C:\Users\Aluno\Downloads\AulasCS-main\AulasCS-main\3.Revisao\DesafioIMC\DesafioIMC\obj\Debug\net10.0\DesafioIMC.genruntimeconfig.cache
+C:\Users\Aluno\Downloads\AulasCS-main\AulasCS-main\3.Revisao\DesafioIMC\DesafioIMC\obj\Debug\net10.0\ref\DesafioIMC.dll
